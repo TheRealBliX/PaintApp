@@ -1,0 +1,21 @@
+D:\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Projects\Paint\Paint\bin\Debug\Paint.exe
+D:\Projects\Paint\Paint\bin\Debug\Paint.pdb
+D:\Projects\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\Projects\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Projects\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Projects\Paint\Paint\obj\Debug\Paint.exe
+D:\Projects\Paint\Paint\obj\Debug\Paint.pdb
+D:\Десюкевич Ярослав ООП\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Десюкевич Ярослав ООП\Paint\Paint\bin\Debug\Paint.exe
+D:\Десюкевич Ярослав ООП\Paint\Paint\bin\Debug\Paint.pdb
+D:\Десюкевич Ярослав ООП\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\Десюкевич Ярослав ООП\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\Десюкевич Ярослав ООП\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Десюкевич Ярослав ООП\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Десюкевич Ярослав ООП\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Десюкевич Ярослав ООП\Paint\Paint\obj\Debug\Paint.exe
+D:\Десюкевич Ярослав ООП\Paint\Paint\obj\Debug\Paint.pdb
